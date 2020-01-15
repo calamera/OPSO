@@ -6,7 +6,6 @@
 - How are roles and responsibilities divided in the team?
 - What is the skill set of the teams?
 
-
 ===============================
 = Technology Process Overview =
 ===============================
