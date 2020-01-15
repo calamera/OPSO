@@ -1,0 +1,58 @@
+====================================
+= Technology Organization Overview =
+====================================
+- What is the structure of the technology organization?
+- How many are in the tech team (product, dev, QA, ops, etc…)?
+- How are roles and responsibilities divided in the team?
+- What is the skill set of the teams?
+
+
+===============================
+= Technology Process Overview =
+===============================
+- What is your software development process and release cadence?
+- How are projects managed?
+- How is quality assurance performed and measured?
+- Do you do load/performance testing and if so how?
+- What do you use for source control and build management?
+- What other tools do you use (ticketing, build management, deployments  etc…)?
+
+=====================
+= Software Overview =
+=====================
+- What is your back-end / cloud-based technology stack comprised of?
+- What is your client technology stack comprised of?
+- What standards have you adopted?
+- What software architecture patterns do you use (e.g. MVC, Observer)? 
+- What design pattern do you use for your API’s?
+- How are software components packaged (e.g monolith, micro-services, shared libs etc...)
+- What does the software roadmap look like?
+- How is content delivery handled/managed (e.g. CMS, CDN)?
+- What subscription management and/or billing system do you use?
+- What open source and corresponding licenses are your using?
+- Are there any other third party software/services/API’s you rely on?
+
+=================================
+= Technical Operations Overview =
+=================================
+- How/where is the infrastructure hosted?
+- What OS do you run?
+- What is the physical architecture of the service?
+- How is scaling achieved for software and network components?
+- How many servers are there in Production?
+- What is the capacity (concurrent users) of the current infrastructure?
+- What type of storage do you use? 
+- How is data replication handled? 
+- How are backups handled? 
+- What do you use for monitoring? 
+- What administrative tools do you use?
+- What do you use for reporting and analytics?
+- How do you handle application fail-over?
+- How is new software and/or content rolled out to production?
+- Do you have separate Development, QA and Production environments?
+- What is your disaster recovery plan?
+- Do you manage to an SLA and if so what is it? 
+- How is service uptime and response time  assured?
+- Which vendors do you use?
+- What are your security practices (e.g. intrusion detection/prevention, server/systems access, software layer, data at rest etc…)?
+- Have you performed any compliance certifications (e.g. PCI, HIPAA, SOC)
