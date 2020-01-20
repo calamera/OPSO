@@ -30,6 +30,8 @@
 - What subscription management and/or billing system do you use?
 - What open source and corresponding licenses are your using?
 - Are there any other third party software/services/API’s you rely on?
+- What specifically would you say is unique in the software you have written?
+- Do you have anything patented, patent pending or patent-worthy?
 
 =================================
 = Technical Operations Overview =
